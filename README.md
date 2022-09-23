@@ -1,4 +1,12 @@
 # chartsAssignmentKaran
+To run the app on your device
+Step 1 .
+install the node modules first using command npm install
+(** don't forget to add charts using  - yarn add rc-echarts -  command)
+Step 2 .
+To start the app use command Yarn start
+
+
 Created  bar and scatter plot using Echarts for react
 ![Screenshot 2022-09-23 002733](https://user-images.githubusercontent.com/28605589/191987460-afb8e90c-c912-4a70-93e6-08dc0dd54764.png)
 ![Screenshot 2022-09-23 002425](https://user-images.githubusercontent.com/28605589/191987469-5b3b31b3-4170-4ded-8c75-aa06a42d1056.png)
